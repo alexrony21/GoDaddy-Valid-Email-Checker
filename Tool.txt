@@ -1,0 +1,5 @@
+GoDaddy Valid Email Checker
+it will check your email list from a file.txt which is associated with GoDaddy and which is not .we are using multithreading and proxy function . you can use any thread number and free http proxy.means tool will be fast checking
+If you wanna buy this tool contact me via Telegram .
+
+Telegram : @alexrony21
